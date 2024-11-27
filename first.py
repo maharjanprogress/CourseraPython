@@ -1,2 +1,0 @@
-print("hloo");
-print("lol");
